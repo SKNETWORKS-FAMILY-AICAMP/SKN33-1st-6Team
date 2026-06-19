@@ -99,7 +99,7 @@ api_run.py
 api_json_run.py
 
 5. 서비스 실행<br>
-./app/main.py
+터미널에 streamli run ./app/main.py 입력
 
 ## 7. 수행 화면 캡처
 <img width="1898" height="858" alt="경로조회1" src="https://github.com/user-attachments/assets/a117fa53-ea27-4f88-a559-fa270a71b23d" />
