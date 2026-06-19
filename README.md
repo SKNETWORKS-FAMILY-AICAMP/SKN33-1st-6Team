@@ -67,7 +67,7 @@
 질문 키워드를 입력하면 관련 질문이 뜨고 해당 질문을 클릭하면 답변을 표시한다.
    
 ## 6. 실행 방법
-streamli run ./app/main.py 실행
+streamlit run ./app/main.py 실행
 정류장 정보 및 노선 정보를 수집하여 데이터베이스에 저장
 
 ---
@@ -99,7 +99,7 @@ api_run.py
 api_json_run.py
 
 5. 서비스 실행<br>
-터미널에 streamli run ./app/main.py 입력
+터미널에 streamlit run ./app/main.py 입력
 
 ## 7. 수행 화면 캡처
 <img width="1898" height="858" alt="경로조회1" src="https://github.com/user-attachments/assets/a117fa53-ea27-4f88-a559-fa270a71b23d" />
