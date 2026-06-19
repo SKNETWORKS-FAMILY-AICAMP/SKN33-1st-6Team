@@ -5,7 +5,7 @@
 * **🧑‍🔬 팀명:** **버스킹 (BusKing) -** 거리의 음악가(Busking)가 아닌, 버스 데이터의 왕(Bus-King)이 되겠다는 포부
 * **👥 팀원:** 김나은, 김유진, 박기현, 오호민, 이준희A
 * **🔗 멤버 개인 깃허브 계정 연동**<br>
-	- 김나은: naeuneo (nangni30@naver.com) <br>
+	- 김나은: naeuneo (nangni30@naver.com) ⭐<br> 
 	- 김유진: ujinkim2001 (ujinkim@naver.com)<br>
 	- 박기현: HYonthePark (rlgusqkr102@gmail.com)<br>
 	- 오호민: necknam (gom532454@gmail.com)<br>
